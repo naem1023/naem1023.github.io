@@ -1,9 +1,9 @@
 url: https://naem1023.github.io
-baseurl: /naem1023.github.io/
+baseurl: '/naem1023.github.io/'
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: naem1023
+email: relilau00@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
