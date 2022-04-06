@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : "Mutli-modal, NLP, CV, MLOps blog"
 name                     : "Sungho Park"
 description              : "self-moivated engineer"
-url                      : # "https://naem1023.github.io"
-baseurl                  : 
+url                      : "https://naem1023.github.io"
+baseurl                  : # haha
 repository               : "naem1023/naem1023.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/puppy.webp"
@@ -41,8 +41,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-light" # "github-light" (default), "github-dark"
-    issue_term           : "pathname" # "pathname" (default)
+    theme                : "github-light" # (default), "github-dark"
+    issue_term           : "pathname" # (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
