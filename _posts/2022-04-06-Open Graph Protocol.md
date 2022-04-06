@@ -3,9 +3,9 @@ title:  "Open Graph Protocol"
 excerpt: ""
 
 categories:
-  - Blog-building
+  - blog-building
 tags:
-  - Blog
+  - blog
 # last_modified_at: 2023-04-06T08:06:00-05:00
 ---
 
