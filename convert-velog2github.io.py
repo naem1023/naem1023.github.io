@@ -39,9 +39,9 @@ for idx, posting in enumerate(postings):
                     mkdir_command = ['mkdir', target_dir]
 
                     cp_command = [
-                        'cp', origin_img_path, img_path
+                        'cp', '-f', origin_img_path, img_path
                     ]
-                    # print(cp_command)
+                    print(cp_command)
 
                     if run_flag:
                         sp.run(mkdir_command)
@@ -52,7 +52,7 @@ for idx, posting in enumerate(postings):
         md_cp_command = [
             'cp', str(posting), '_posts/' + new_filename + '.md'
         ]
-        print(md_cp_command)
-        sp.run(md_cp_command)
+        # print(md_cp_command)
+        # sp.run(md_cp_command)
     else:
         print(f'{posting} is not exist.')
