@@ -2,7 +2,7 @@
 title: "Kaggle tip"
 description: "경진대회 플랫폼 Kaggle 카카오 아레나: 계열사 전용이라고 한다. 데이콘: public 대회. Kaggle 스타일이 적용되는 중이라고 한다.  Ranking Ranking system: competition 내의 point로 정해지는 순위   팀을 이뤄 출전하면 $"
 date: 2021-09-23T06:35:03.433Z
-categoreis: ["Competition"]
+categories: ["Competition"]
 tags: ["boostcamp","kaggle"]
 ---
 # 경진대회 플랫폼

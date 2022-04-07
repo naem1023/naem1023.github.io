@@ -2,7 +2,7 @@
 title: "[백준] Messi Gimossi"
 description: "https&#x3A;//www.acmicpc.net/problem/17297ref: https&#x3A;//mountrivers.github.io/boj17297/F(m) 아래와 같이 m번째 문자에 대해서 피보나치 수열로 표현할 수 있는 문자열이다.F(m) = F(m "
 date: 2021-09-02T20:17:18.103Z
-categoreis: ["Algorithm"]
+categories: ["Algorithm"]
 tags: ["Pyton","algorithm"]
 ---
 https://www.acmicpc.net/problem/17297

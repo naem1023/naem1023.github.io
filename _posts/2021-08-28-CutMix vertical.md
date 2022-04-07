@@ -2,7 +2,7 @@
 title: "CutMix vertical"
 description: "본래 cutmix는 랜덤하게 이미지 패치를 샘플링한다. 해당 방식이 마스크 이미지에선느 썩 효과적이지 못할 수도 있다. 마스크를 착용여부, 성별, 나이를 알기 위해서는 얼굴만 detection해서 patch를 하는것이 가장 효과적일 것이다. 따라서 랜덤하게 패치하고자한"
 date: 2021-08-28T14:48:06.653Z
-categoreis: ["Computer-Vision"]
+categories: ["Computer-Vision"]
 tags: ["CNN","ai competition","cutmix"]
 ---
 # CutMix

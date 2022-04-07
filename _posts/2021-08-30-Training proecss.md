@@ -2,7 +2,7 @@
 title: "Training proecss"
 description: "gpu가 좋은 상황이 아닐 경우 사용할만한 방법이다. num_accum만큼의 epoch을 돌아야지 model의 parameters를 업데이트.critertion의 결과물에 num_accum을 나눠주는 이유는 일반화때문이라고 한다.뇌피셜: num_accum동안의 loss"
 date: 2021-08-30T18:02:28.948Z
-categoreis: ["ML-Basic"]
+categories: ["ML-Basic"]
 tags: ["DL","PyTorch"]
 ---
 # Gradient Accumulation

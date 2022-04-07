@@ -2,7 +2,7 @@
 title: "Hyperparameter tuning"
 description: "개발자가 수동으로 정해야하는 값들learning ratesize of modeloptimizer의 종류epochetc...모델, 데이터, hyper paramter 중에서 hyper parameter의 수치는 중요도가 가장 떨어진다.모델이 가장 중요하지만 보통 좋은 모"
 date: 2021-08-22T19:43:58.594Z
-categoreis: ["ML-Basic"]
+categories: ["ML-Basic"]
 tags: ["PyTorch","hyperparameter tuning"]
 ---
 # Hyperparameter tuning

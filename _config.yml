@@ -60,8 +60,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true #, false (default)
+search_full_content      : true # false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Sungho Park"
   avatar           : "/assets/images/puppy.webp"
-  bio              : "self-moivated engineer"
+  bio              : "Research AI"
   location         : "Seoul"
   email            : "relilau00@gmail.com"
   links:

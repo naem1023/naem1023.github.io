@@ -2,7 +2,7 @@
 title: "ai competition"
 description: "대회 시작하자마자 데이터 열어보지말고 overview check.탐색적 데이터 탐색. 데이터를 사용하여 이루고자 하는 목표 확인데이터 확인input, output 정의방법론 수립데이터 처리모델 생성반복"
 date: 2021-08-23T04:42:14.134Z
-categoreis: ["Competition"]
+categories: ["Competition"]
 tags: ["competition"]
 ---
 

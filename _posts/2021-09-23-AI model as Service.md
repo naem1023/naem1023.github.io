@@ -2,7 +2,7 @@
 title: "AI model as Service"
 description: "Imagenet처럼 데이터셋이 명확하고, 이를 해결하기 위한 모델링에 집중한다.보통의 산업환경에서는 데이터셋 자체가 존재하지 않는 경우가 대부분이다. Software Requirements들만 존재하고 이를 해결하기 위한 도구로써 AI를 요구하는 경우가 대부분이다.따라"
 date: 2021-09-23T05:09:46.199Z
-categoreis: ["MLOps"]
+categories: ["MLOps"]
 tags: ["boostcamp"]
 ---
 # AI model as Researching

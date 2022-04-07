@@ -2,7 +2,7 @@
 title: "첫번째 Ai Competition 마무리"
 description: "2주간의 짧은 시간이었지만, 계속 밤을 샜던지라 4주와도 같았던 시간이었다. 그 동안 시도했던 내용들, 다른 사람들이 사용했던 방법들을 정리해봤다.실험을 위해 구현했던 개인 코드: https&#x3A;//github.com/naem1023/boostcamp-pstage"
 date: 2021-09-06T11:01:54.134Z
-categoreis: ["Competition"]
+categories: ["Competition"]
 tags: ["ai competition","boostcamp"]
 ---
 2주간의 짧은 시간이었지만, 계속 밤을 샜던지라 4주와도 같았던 시간이었다. 그 동안 시도했던 내용들, 다른 사람들이 사용했던 방법들을 정리해봤다.

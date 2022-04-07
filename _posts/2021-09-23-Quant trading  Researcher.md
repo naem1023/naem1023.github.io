@@ -2,7 +2,7 @@
 title: "Quant trading / Researcher"
 description: "trading: 단기적1초 ~ 3일내에 재거래한다.Investment: 장기적말 그대로 Quantative(계량적)인 trading이다. 느낌대로 사는게 아니라 수학, 모델을 활용해 trading을 하는 것.= Automated / system / algorithmic"
 date: 2021-09-23T09:51:47.930Z
-categoreis: ["Quant-Trading"]
+categories: ["Quant-Trading"]
 tags: ["quant trading"]
 ---
 # Trading

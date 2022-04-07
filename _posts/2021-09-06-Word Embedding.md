@@ -2,7 +2,7 @@
 title: "Word Embedding"
 description: "문장의 단어들을 벡터 공간 상의 점으로 표현하기 위해, 단어들을 벡터로 변환하는 방법.Word Embedding 자체가 딥러닝, 머신러닝 기술이다. 학습 데이터, 사전에 정의한 벡터 공간의 차원 수를 통해 핛브을 진행한다. 학습이 완료되면 학습 데이터, 즉 특정 단어에"
 date: 2021-09-06T11:04:54.688Z
-categoreis: ["NLP-Theory"]
+categories: ["NLP-Theory"]
 tags: ["NLP"]
 ---
 # Word Embedding

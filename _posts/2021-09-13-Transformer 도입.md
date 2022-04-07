@@ -2,7 +2,7 @@
 title: "Transformer 도입"
 description: "'Attention is all you need'(2017) 논문 이전의 attention은 LSTM, GRU에 add-on처럼 쓰일 뿐이었다. 해당 논문에서는 기존의 RNN 모델을 완전히 탈피하고 attention을 사용한 새로운 Seq2Seq 모델을 제시했다."
 date: 2021-09-13T09:25:25.569Z
-categoreis: ["NLP-Theory"]
+categories: ["NLP-Theory"]
 tags: ["NLP"]
 ---
 'Attention is all you need'(2017) 논문 이전의 attention은 LSTM, GRU에 add-on처럼 쓰일 뿐이었다. 해당 논문에서는 기존의 RNN 모델을 걷어내고  attention을 사용한 새로운 Seq2Seq 모델을 제시했다.

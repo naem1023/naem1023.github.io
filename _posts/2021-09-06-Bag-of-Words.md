@@ -2,7 +2,7 @@
 title: "Bag-of-Words"
 description: "Bag-of-Words 딥러닝 이전에 단어를 숫자로 나타내는 기법.  Bag-of-Words Representation 1. Constructing the vocabulary conatining unique words. 여러 문장에 걸쳐 중복되게 사용된 단어라도 Voc"
 date: 2021-09-06T07:04:30.522Z
-categoreis: ["NLP-Theory"]
+categories: ["NLP-Theory"]
 tags: ["NLP"]
 ---
 # Bag-of-Words

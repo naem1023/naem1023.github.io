@@ -2,6 +2,7 @@
 title: "pytorch template, tip"
 description: "지금까지 졸업프로젝트, 회사 인턴이나 알바들을 할 때 tf도 쓰고 pytroch도 썻지만 template이란 것들 정해두고 쓰지 않았다. 중구난방하게 필요에 따라서 디렉터리와 스크립트를 추가하고 분리하고 구현하고... 물론 템플릿이 만능은 아니다. 어느 템플릿이 그렇듯"
 date: 2021-08-17T13:22:09.135Z
+categories: ["Pytorch"]
 tags: ["PyTorch","python"]
 ---
 # Template

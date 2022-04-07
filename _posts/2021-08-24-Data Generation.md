@@ -2,7 +2,7 @@
 title: "Some tips"
 description: "Data feeding을 잘해보자. 가령, 위처럼 코딩해놨다고 하자. 두 코드 모두 비효율적이다.첫번째는 generator의 속도가 model보다 느리기 때문에 model이 제 성능을 내지 못한다.두번째는 model의 속도가 generator보다 느리기 때문에 gene"
 date: 2021-08-24T02:35:24.900Z
-categoreis: ["Competition"]
+categories: ["Competition"]
 tags: ["PyTorch","ai competition"]
 ---
 # Data Generation

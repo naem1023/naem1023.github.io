@@ -2,7 +2,7 @@
 title: "Beam search"
 description: "이전 포스팅의 attention이나 LSTM들은 특정 step에서 다음 단어를 예측할 때, 가장 확률이 높은 하나의 단어를 선택한다. 이러한 방법을 greedy decoding이라고 한다.전체적인 맥락에서 예측하는 것이 아니라 근시안적으로 가장 좋은 방법을 택하기 때문"
 date: 2021-09-08T10:39:16.519Z
-categoreis: ["NLP-Theory"]
+categories: ["NLP-Theory"]
 tags: ["NLP"]
 ---
 # Greedy decoding
