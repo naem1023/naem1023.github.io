@@ -2,6 +2,7 @@
 title: "Passage Retrieval"
 description: "Passage Retrieval query에 맞는 문서(Passage)를 검색(Retrieval)하는 것. "
 date: 2021-10-13T15:00:36.624Z
+categories: ["NLP"]
 tags: ["MRC"]
 ---
 # Passage Retrieval

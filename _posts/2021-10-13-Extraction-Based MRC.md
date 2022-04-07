@@ -2,6 +2,7 @@
 title: "Extraction-Based MRC"
 description: "질문의 답변이 항상 주어진 지문(context)내에 span으로 존재.답변을 생성하지 않고 답변을 context에서 찾는 것으로 문제를 좁힐 수 있다.e.g.,) SQuAD, KorQuAD, NewsQA, Natural Questions이러한 dataset들은 Hugg"
 date: 2021-10-13T04:09:10.578Z
+categories: ["NLP"]
 tags: ["boostcamp"]
 ---
 # Extraction-Based MRC

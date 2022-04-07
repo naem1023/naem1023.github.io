@@ -2,6 +2,7 @@
 title: "grep process 한꺼번에 종료"
 description: "네이버 부스트캠프 AI Tech 2기 김지성 캠퍼님께서 공유해주신 내용.중간 ( | ) 명령은 파이프로, 앞 명령의 실행 결과를 뒤 명령으로 전달합니다.ps aux 명령으로 모든 실행중인 프로세스 정보를 가져온다.grep python 명령으로 python 이란 이름을 "
 date: 2021-10-29T08:57:49.695Z
+categories: ["Linux"]
 tags: ["linux"]
 ---
 ```shell

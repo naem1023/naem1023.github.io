@@ -2,6 +2,7 @@
 title: "Generative model - 2"
 description: "D.Kingma가 만든 모델이라고 한다. Adam, varitaional auto-encoder도 만든 대단한 분이라고 한다...Autoencoder는 generative model인가?variational auto-encoder는 generatiev model이니까 "
 date: 2021-08-14T12:01:37.562Z
+categories: ["Computer-Vision"]
 tags: ["Generative Model","lataent-variable-model"]
 ---
 # Latent Variable Models

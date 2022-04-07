@@ -2,6 +2,7 @@
 title: "Unicode, Tokenization"
 description: "e.g., U+AC00'U+': unicode를 뜻하는 접두어'AC00': 16진수 code pointord: character to unicode code pointchr: unicode code point to character완성형 한글 11,172자len을 적용"
 date: 2021-10-12T02:26:14.074Z
+categories: ["NLP"]
 tags: ["MRC","python"]
 ---
 # Unicode

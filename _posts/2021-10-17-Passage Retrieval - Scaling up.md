@@ -2,6 +2,7 @@
 title: "Passage Retrieval - Scaling up"
 description: "Passage retrieal and Similarity Search  Approximating Similiarity Search  FAISS"
 date: 2021-10-17T08:32:29.667Z
+categories: ["NLP"]
 tags: ["MRC"]
 ---
 # Passage retrieal and Similarity Search

@@ -2,6 +2,7 @@
 title: "pytorch transfer"
 description: "model 자체 코딩보다는 모델을 어떻게 다룰 것인지.다른 데이터셋으로 만든 모델(pre-trained model)을 현재 데이터에 적용텅 빈 모델로부터 개발하지 않아서 효율적대용량 데이터셋으로 만들어진 모델을 사용시, 성능은 더 좋다.가장 일반적인 학습 방법일부분만 "
 date: 2021-08-20T04:11:55.216Z
+categoreis: ["Pytorch"]
 tags: ["PyTorch"]
 ---
 model 자체 코딩보다는 모델을 어떻게 다룰 것인지.

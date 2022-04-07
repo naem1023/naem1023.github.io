@@ -2,6 +2,7 @@
 title: "Neural network"
 description: "행렬의 역할을 아주 잘 활용한 전형적이 예시가 NN이다.X 행렬에서 데이터를 모아둔다. W에서는 X의 데이터를 다른 차원으로 보내주는 역할을 한다.b 행렬은 y 절편을 열벡터에 한꺼번에 더해주는 역할을 한다.본래 (X, d) 차원이었던 X 행렬은 (n, p) 차원으로 "
 date: 2021-08-04T10:08:13.501Z
+categories: ["ML-Basic"]
 tags: ["Backpropagation","ML"]
 ---
 # Neural network

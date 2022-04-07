@@ -2,6 +2,7 @@
 title: "Dense Embedding"
 description: "Passage Embedding 중 Spare Embedding은 보통 90% 이상의 벡터값들이 0이다.차원의 수가 매우 크다.compressed format으로 극복 가능유사성을 고려하지 못한다.매우 유사한 단어라도, character가 달라지면 전혀 다른 차원으로 "
 date: 2021-10-14T06:43:17.095Z
+categories: ["NLP"]
 tags: ["MRC"]
 ---
 # Sparse Embedding의 문제점

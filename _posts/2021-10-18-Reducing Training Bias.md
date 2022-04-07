@@ -2,6 +2,7 @@
 title: "Reducing Training Bias"
 description: "Bias는 지양대상이 아니다. 하지만 일부 bias로 인해 모델의 성능에 악영향을 끼치는 경우가 있고, 이러한 bias issue는 해결해야 한다.ML/DLinductive bias(ref)학습 시에는 만나보지 않았던 상황에 대하여 정확한 예측을 하기 위해 사용하는 추"
 date: 2021-10-18T03:44:02.826Z
+categories: ["ML-Basic"]
 tags: ["MRC"]
 ---
 # Definition of Bias

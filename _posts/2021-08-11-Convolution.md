@@ -2,6 +2,7 @@
 title: "Convolution"
 description: "원하는 feature를 뽑을 수 있다.가령, 모든 kernel의 값이 1/9인 (3,3) kernel을 사용했다고 하자. 그러면 평균을 구하는 convolution 연산이 된다.channel이 3개인 RGB이미지를 가정해보자. 이 이미지에 (5,5) filter를 적용"
 date: 2021-08-11T02:38:17.395Z
+categories: ["Computer Vision"]
 tags: ["CNN","DL"]
 ---
 # Convolution

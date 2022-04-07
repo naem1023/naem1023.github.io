@@ -2,6 +2,7 @@
 title: "Optimization"
 description: "부캠 강사님께서 용어에 대해 확실히 알고 가라고 하셨다.어제(21.08.09) 선택과제 2번의 AAE에 대해서 알아보다가 기겁을 했다. 한 문장 안에서 모르는 단어를 세는 것보다, 아는 단어를 세는게 빨랐다. 분명 영어로 쓰여있는데 외계어 같았다... 인턴을 하면서, "
 date: 2021-08-10T01:35:15.676Z
+categories: ["ML-Basic"]
 tags: ["DL","optimization"]
 ---
 ![](/assets/images/Optimization/eb1d4749-f4b0-4545-a5a8-e2b72b35b6e4-image.png)

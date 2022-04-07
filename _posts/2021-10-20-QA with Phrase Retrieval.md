@@ -2,6 +2,7 @@
 title: "QA with Phrase Retrieval"
 description: "Error propagationReader가 아무리 뛰어나도 Retreiver가 제대로 된 context를 전달하지 못한다면 전체 프로세스의 성능이 떨어진다.Query-dependent encdoingquery에 따라 answer span의 encoding이 달라진다."
 date: 2021-10-20T06:13:25.221Z
+categories: ["NLP"]
 tags: ["MRC"]
 ---
 # Phrase Retrieval in ODQA

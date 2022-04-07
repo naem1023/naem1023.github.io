@@ -2,6 +2,7 @@
 title: "Advanced Self-supervised Pre-training model"
 description: "GPT-1과 기본적인 구조는 같다. Transformer layer를 보다 더 많이 쌓았다.다음 단어를 예측하는 task로 학습을 진행.더 많은 학습 데이터 사용보다 양질의 데이터 사용zero-shot setting으로 다뤄질 수 있는 잠재적인 능력을 보여줬다ref: "
 date: 2021-09-18T11:08:52.241Z
+categoreis: ["NLP-Theory"]
 tags: ["NLP"]
 ---
 # GPT-2

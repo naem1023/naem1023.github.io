@@ -2,6 +2,7 @@
 title: "Training BERT"
 description: "Create Tokenizer Make DatasetNSP(Next Sentence Prediction)Masking앞서 배웠던 내용이랑 조금 상반되는 내용이라 일단 적어본다.도메인 특화 task에서는 Pretrained model을 fine-tuning하는 것보다, "
 date: 2021-09-28T02:22:24.556Z
+categories: ["NLP"]
 tags: ["BERT","NLP"]
 ---
 # Process

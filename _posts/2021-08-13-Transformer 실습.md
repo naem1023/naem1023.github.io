@@ -2,6 +2,7 @@
 title: "Transformer 실습"
 description: "Scaled Dot-Product Attention.transformer를 배우면서 attention이 1개만 존재했던 그 모델이다. 위 그림처럼 여러 개의 Q, K, V를 생성하는 것이 MHA이고 한 쌍의 Q, K, V만 생성하면 SDPA.수식에서도 나와있듯이, qu"
 date: 2021-08-13T13:09:33.204Z
+categories: ["NLP"]
 tags: ["PyTorch","transformer"]
 ---
 # SDPA

@@ -2,6 +2,7 @@
 title: "Linux server sleep"
 description: "ref: https&#x3A;//www.unixtutorial.org/disable-sleep-on-ubuntu-server/개인용 서버로 구매한 오드로이드가 가동 1년쯤부터 자꾸 꺼지기 시작했다. 단순히 전원 케이블이 잘못 꼽혀서 발생한 문제인줄 알았는데, 빈번하게 "
 date: 2021-10-03T21:06:55.212Z
+categories: ["Linux"]
 tags: ["linux"]
 ---
 ref: https://www.unixtutorial.org/disable-sleep-on-ubuntu-server/

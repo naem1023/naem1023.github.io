@@ -2,6 +2,7 @@
 title: "Preprocessing"
 description: "필요 이상의 정보를 거르자. 문제는 보통 그냥 이미지만 덜렁 주어진다는 것이다. 개발자가 알아서 적절한 방법을 찾아야한다.수업 때 배웠던 YOLO를 써도되고, 대부분 이미지 중앙에 마스크 사진이 있으니 중앙crop만 해도 되고... 이것저것 해봐야겠다.원본 크기로 계산"
 date: 2021-08-24T02:04:59.305Z
+categoreis: ["Competition"]
 tags: ["PyTorch","ai competition"]
 ---
 # Preprocessing

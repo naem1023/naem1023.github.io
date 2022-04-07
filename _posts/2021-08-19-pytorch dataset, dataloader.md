@@ -2,6 +2,7 @@
 title: "pytorch dataset, dataloader"
 description: "졸업프로젝트 때 직접 dataset, dataloader를 구현했었는데 시간에 쫓겨서 개발한지라 정말 개발새발로 내 기억 속에 남아있다.. 이 참에 헷갈리거나 몰랐던 내용들 위주로 정리해봤다.중요한 것은 데이터를 tensor로 바꿔주는 것 또한 따로 고려를 해야한다는 "
 date: 2021-08-19T01:53:16.064Z
+categoreis: ["Pytorch"]
 tags: ["PyTorch","dataloader","datdaset"]
 ---
 졸업프로젝트 때 직접 dataset, dataloader를 구현했었는데 시간에 쫓겨서 개발한지라 정말 개발새발로 내 기억 속에 남아있다.. 이 참에 헷갈리거나 몰랐던 내용들 위주로 정리해봤다.

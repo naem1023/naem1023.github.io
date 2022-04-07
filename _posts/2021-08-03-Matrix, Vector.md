@@ -2,8 +2,8 @@
 title: "Matrix, Vector"
 description: "1학년 공수, 선대 이후로 수학 지식들이 삭제됐다.. 되새기는 겸으로 numpy 기호들과 기록.numpy에서 +, - 가능.Hadmard Product : 은 모양의 vector끼리 성분곱하는 것X · Y원점에서부터 벡터까지의 거리.L1 norm = 변화량의 절대값의 "
 date: 2021-08-03T17:51:44.040Z
-categories: ["ML Basic"]
-tags: []
+categories: ["ML-Basic"]
+tags: [matrix]
 ---
 # Matrix
 1학년 공수, 선대 이후로 수학 지식들이 삭제됐다.. 되새기는 겸으로 numpy 기호들과 기록.

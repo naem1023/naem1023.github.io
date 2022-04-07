@@ -2,6 +2,7 @@
 title: "Optimizer 실습"
 description: "matplotlib와 같은 출력물의 해상도를 retina로 설정본래 의도한 함수의 그래프는 위와 같다. 해당 그래프에 노이즈를 추가해보자.노이즈는 위 코드에 서술됐듯이, np.random.randn()에 작은 실수값인 3e-2를 곱해줘서 구현된다.500번째, 3500번"
 date: 2021-08-10T07:58:31.504Z
+categories: ["ML-Basic"]
 tags: ["DL","Optimizer","PyTorch"]
 ---
 ## colab 설정

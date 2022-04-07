@@ -2,6 +2,7 @@
 title: "Kaggle dataset"
 description: "kaggle notebook을 안쓰고 개인 서버에서 train 해보려면 kaggle dataset을 전부 서버에 받아야한다. 대회에서 제공해주는 train/test 파일들만 쓴다면 kaggle api를 쓸 필요까지 없다.하지만 discussion에 올라온 여러 code"
 date: 2021-11-10T15:31:55.836Z
+categories: ["Competition"]
 tags: ["kaggle"]
 ---
 kaggle notebook을 안쓰고 개인 서버에서 train 해보려면 kaggle dataset을 전부 서버에 받아야한다. 대회에서 제공해주는 train/test 파일들만 쓴다면 kaggle api를 쓸 필요까지 없다.

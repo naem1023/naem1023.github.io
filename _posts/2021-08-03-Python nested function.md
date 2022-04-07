@@ -2,6 +2,7 @@
 title: "Python nested function"
 description: "함수를 중첩하여 사용가능하다. 일차원적으로 함수를 나열하는 것이 아니라, 복잡한 구조의 함수 결합체를 생성 가능.기존의 방식으로는 매우 복잡하게 서술되는 함수 구조를, decorator를 통해 단순하게 표현 가능.ref : https&#x3A;//velog.io/@in"
 date: 2021-08-03T16:47:56.382Z
+categories: ["python"]
 tags: ["python"]
 ---
 # Nested function by decorator

@@ -2,6 +2,7 @@
 title: "Recent trends of NLP"
 description: "BERT, GPT와 같은 self-supervised learning의 가장 큰 수혜자라고 할 수 있는 영역이다. Question과 context가 주어진다.context는 문맥이라고 이해하면 되는데 사용되는 분야마다 의미가 조금씩 달라진다고 한다. Multiple-c"
 date: 2021-09-19T13:41:16.480Z
+categoreis: ["NLP-Theory"]
 tags: ["NLP"]
 ---
 # Question Anwering

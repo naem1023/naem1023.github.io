@@ -2,6 +2,7 @@
 title: "Generative Models"
 description: "https://deepgenerativemodels.github.io/ 스탠포드 대학의 수업이라고하는데 참고해서 수업을 진행하셨다.  Generative model 단순히 이미지와 문자를 만드는 것이 아니다.  강아지 이미지들을 받았다고 해보자.  Generative "
 date: 2021-08-13T15:08:09.373Z
+tags: ["Computer-Vision"]
 tags: ["DL","boostcamp","generative-models"]
 ---
 https://deepgenerativemodels.github.io/

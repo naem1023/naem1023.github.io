@@ -2,6 +2,7 @@
 title: "weight init"
 description: "다른 캠퍼분이 정리해주신 내용이 있는데 공유한다.https&#x3A;//velog.io/@hanlyang0522/weight-init%EC%9D%84-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0정리하면, weight init을 0으로 하지 않는 "
 date: 2021-08-11T06:35:45.694Z
+categories: ["Computer Vision"]
 tags: ["DL","ML","PyTorch"]
 ---
 다른 캠퍼분이 정리해주신 내용이 있는데 공유한다.

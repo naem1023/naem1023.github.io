@@ -2,6 +2,7 @@
 title: "Convolution 실습"
 description: "mlp든 뭐든 특별한 과정이 들어가는게 아니면 동일한 과정의 train이다. 커스텀이 필요하다면 졸프에서 했던 것과 같이, network의 input과 ouput을 자유롭게 수정도 가능하다.결국 달라지는 것은 network의 종류이다.batch normalization"
 date: 2021-08-12T05:33:51.298Z
+categories: ["Computer-Vision"]
 tags: ["CNN","DL"]
 ---
 ## add_module()

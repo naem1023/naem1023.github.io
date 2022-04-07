@@ -2,6 +2,7 @@
 title: "Trouble shooting"
 description: "nvidia-smi같은 모듈gpu, mem 통계를 지속적으로 콘솔에 찍어준다.gpu 메모리를 사용하는 tensor 변수들이 있다. (대부분)이런 변수들의 값이 지속적으로 누적되는 loop문이 있다면 gpu의 메모리가 금방 고갈될 것이다.e.g.,"
 date: 2021-08-22T20:10:07.453Z
+categories: ["GPU"]
 tags: ["PyTorch"]
 ---
 # GPUUtil

@@ -2,6 +2,7 @@
 title: "CNN key concept"
 description: "ImageNet Large-Scale Visual Recognition ChagllengeClassification, Detection, Localization, Segmentation1000 different categories2015년도를 기준으로 사람보다 erro"
 date: 2021-08-11T06:50:47.059Z
+categories: ["Computer Vision"]
 tags: ["CNN","DL"]
 ---
 # CNN

@@ -2,6 +2,7 @@
 title: "parameter 수"
 description: "수업을 기준으로 하는 2020년에는 parameter의 수를 줄이는 것이 관건이라고 했다. 왜냐하면 그럴수록 학습이 잘되고 일반적인 성능을 올리거나 generalize performance에도 좋다.하지만 오늘 master 클래스에서 교수님께서 2021년에서는 아니라고"
 date: 2021-08-13T09:58:27.732Z
+categories: ["ML-Basic"]
 tags: []
 ---
 수업을 기준으로 하는 2020년에는 parameter의 수를 줄이는 것이 관건이라고 했다. 왜냐하면 그럴수록 학습이 잘되고 일반적인 성능을 올리거나 generalize performance에도 좋다.

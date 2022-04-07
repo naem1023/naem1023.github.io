@@ -2,6 +2,7 @@
 title: "Linking MRC and Retrieval"
 description: "앞선 Passage retrieval과 다르게 웹 전체, 혹은 위키피디아 전체와 같이 광범위한 Domain에서 Passage retrieval을 수행해야 한다. Context가 따로 주어지지 않는다. World Knowledge에 기반해서 QA 진행Modern sear"
 date: 2021-10-17T08:45:26.446Z
+categories: ["NLP"]
 tags: ["MRC"]
 ---
 # Open Domain Question Answering(ODQA)

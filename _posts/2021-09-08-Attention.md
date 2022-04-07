@@ -2,6 +2,7 @@
 title: "Attention"
 description: "Seq2Seq는 RNN의 구조 중 many to many에 해당한다. 즉, 입출력 모두 sequenece인 word 단위의 문장.위 그림은 Dialog system(e.g., chat bot)이다. 입력 문장을 받아들이는 부분이 encoder, 출력 문장을 생성하는 부"
 date: 2021-09-08T05:27:10.397Z
+categoreis: ["NLP-Theory"]
 tags: ["Attention","NLP"]
 ---
 # Seq2Seq with attention

@@ -2,6 +2,7 @@
 title: "Transformer"
 description: "기존의 rnn들도 sequence data들을 다룰 수 있지만, 위와 같이 원본 데이터에서 일부 데이터가 빠진 sequence data들에 대해서 다루기는 매우 어려웠다.이를 다루기 위해 transformer가 등장했다. RNN처럼 재귀적인 구조가 없다.Tranasfo"
 date: 2021-08-13T11:44:01.736Z
+categories: ["NLP"]
 tags: ["DL","transformer"]
 ---
 # Background

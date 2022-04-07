@@ -2,6 +2,7 @@
 title: "Full stack ML Engineer"
 description: "ML/DL을 이해, 연구하고 Product을 만드는 Engineer.Researcher와 Engineer의 사이에서 모호한 위치에 있다. 발전속도가 워낙 빨라서 연구와 동시에 Product에 적용할 사례가 많기 때문이다. Front-end, Back-end를 모두 개발"
 date: 2021-09-26T09:41:46.765Z
+categories: ["MLOps"]
 tags: ["ML Engineer","boostcamp","full-stack","mlops"]
 ---
 # ML Engineer

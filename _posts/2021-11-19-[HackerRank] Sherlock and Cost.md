@@ -2,6 +2,7 @@
 title: "[HackerRank] Sherlock and Cost"
 description: "https&#x3A;//www.hackerrank.com/challenges/sherlock-and-cost/problemref: Blog위 수식을 최대화하는 $$A$$를 구하면 된다. diff의 차이를 극대화하는 것이기 때문에 Ai는 Bi나 1이 되면 된다. 왜냐하면"
 date: 2021-11-19T09:34:40.268Z
+categories: ["Algorithm"]
 tags: ["algorithm"]
 ---
 https://www.hackerrank.com/challenges/sherlock-and-cost/problem

@@ -2,6 +2,7 @@
 title: "Gradient descent 증명"
 description: "이 또한 notion에 여러번 정리했엇던 내용이다. 부캠에서 배운 내용만을 기준으로 재정리해봤다.그 동안 정리했던 gradient descent의 내용은 아래 링크에 있다.https&#x3A;//naem1023.notion.site/Gradient-descent-429"
 date: 2021-08-04T06:19:39.104Z
+categories: ["ML-Basic"]
 tags: ["ML","math"]
 ---
 이 또한 notion에 여러번 정리했엇던 내용이다. 부캠에서 배운 내용만을 기준으로 재정리해봤다.

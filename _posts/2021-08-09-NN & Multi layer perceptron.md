@@ -2,6 +2,7 @@
 title: "NN & Multi layer perceptron"
 description: "Neural Networks 인간이 가진 뇌의 신경망을 모방했기 때문에 잘 작동한다고도 한다.  어느 정도 맞는 말이다. 실제 뉴런의 형태를 모방해서 구현된 것이 NN의 node와 흡사하다.  하지만 굳이 뇌를 모방한 것이라 하기에는 Back propagation과 같"
 date: 2021-08-09T10:50:43.696Z
+categories: ["ML-Basic"]
 tags: ["DL"]
 ---
 # Neural Networks

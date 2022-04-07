@@ -2,6 +2,7 @@
 title: "nvidia-driver"
 description: "부스트캠프에서 받은 서버와 aihub에서 받은 서버 2개를 사용 중인데, 종종 nvidia driver가 안 잡히는 문제가 있다. 보통은 apt remove 후 재설치하면 되는데 안되는 경우가 있어서 난감했다. 특히 Ubuntu 16.04에서 이런 문제가 빈번했다. 1"
 date: 2021-10-06T21:59:12.874Z
+categories: ["GPU"]
 tags: ["linux"]
 ---
 부스트캠프에서 받은 서버와 aihub에서 받은 서버 2개를 사용 중인데, 종종 nvidia driver가 안 잡히는 문제가 있다. 

@@ -2,6 +2,7 @@
 title: "Negative in-batch"
 description: "query batch는 기존대로 유지한다. passage batch가 달라진다.1개의 positive passage와 batch_size개의 negative passage로 총 batch_szie + 1 개의 데이터로 하나의 batch를 구성한다.passage batc"
 date: 2021-10-18T17:53:53.788Z
+categories: ["NLP"]
 tags: ["MRC"]
 ---
 # 기존의 negative sampling

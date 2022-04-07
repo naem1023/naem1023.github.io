@@ -2,6 +2,7 @@
 title: "Transformation(Albumentation)"
 description: "속도, 다양성 면에서 pytorch 내장 transformation보다 좋길래 사용했다.가령, 아래와 같은 transformation을 학습에서 사용했다고 해보자.그러면 inference에서도 아래와 같이 동일 구성의 크기 조절, crop, normalization을 "
 date: 2021-09-06T10:17:15.770Z
+categoreis: ["Computer-Vision"]
 tags: ["CNN","PyTorch","ai competition"]
 ---
 # Albumentation

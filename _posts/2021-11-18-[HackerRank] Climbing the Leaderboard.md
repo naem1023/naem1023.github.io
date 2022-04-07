@@ -2,6 +2,7 @@
 title: "[HackerRank] Climbing the Leaderboard"
 description: "https&#x3A;//www.hackerrank.com/challenges/climbing-the-leaderboard/problemref: https&#x3A;//inspirit941.tistory.com/199python list의 sort로 해결하려하니까 tim"
 date: 2021-11-18T08:48:12.142Z
+categories: ["Algorithm"]
 tags: ["algorithm"]
 ---
 https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem

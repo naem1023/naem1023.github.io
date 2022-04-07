@@ -2,6 +2,7 @@
 title: "[HakerRank] Roads and Libraries"
 description: "https&#x3A;//www.hackerrank.com/challenges/torque-and-development/problemcost를 최소화하면서 모든 도시의 시민들이 도서관을 이용할 수 있게 하는 문제이다. 도서관이 있는 도시에 거주하거나 도서관이 있는 도시와"
 date: 2021-11-19T12:04:28.529Z
+categories: ["Algorithm"]
 tags: ["algorithm"]
 ---
 https://www.hackerrank.com/challenges/torque-and-development/problem

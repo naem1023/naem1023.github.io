@@ -2,6 +2,7 @@
 title: "Self-supervised Pre-training models"
 description: "transformer, self-attention은 기계번역 외의 분야에서도 쓰이고 있다!transformer 논문에서 제시된 것처럼 6개의 transformer를 쌓지 않고 12개, 24개 혹은 그 이상으로 쌓는 것만으로도 성능 향상이 있는 것이 실험적으로 밝혀졌다."
 date: 2021-09-18T10:51:48.531Z
+categoreis: ["NLP-Theory"]
 tags: ["NLP"]
 ---
 # Recent trends

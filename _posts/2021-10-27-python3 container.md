@@ -2,6 +2,7 @@
 title: "python3 container"
 description: "huggingface나 코테에서 활용되는 python built-in container들을 정리했다.Docs(https&#x3A;//docs.python.org/3/library/collections.html일반적인 python의 dictionary와 동일하다. 상속받"
 date: 2021-10-27T00:53:46.790Z
+categories: ["Python"]
 tags: ["python"]
 ---
 huggingface나 코테에서 활용되는 python built-in container들을 정리했다.

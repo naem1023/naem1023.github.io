@@ -2,6 +2,7 @@
 title: "pytorch hook"
 description: "고등학생 때 DLL injection으로 피카츄 배구 해킹같은걸 했었는데, 그 때 사용했던 기법들이 일종의 hooking이다. 그런 기법들을 공식적으로 pytorch의 nn.Module에서 지원해준다.pytorch의 hook들은 다음과 같은 규칙을 가진다.return이"
 date: 2021-08-18T23:40:41.171Z
+categoreis: ["Pytorch"]
 tags: ["PyTorch","hook"]
 ---
 고등학생 때 DLL injection으로 피카츄 배구 해킹같은걸 했었는데, 그 때 사용했던 기법들이 일종의 hooking이다. 그런 기법들을 공식적으로 pytorch의 nn.Module에서 지원해준다.

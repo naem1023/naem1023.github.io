@@ -2,6 +2,7 @@
 title: "Language model Benchmark 간단 정리"
 description: "주재걸 교수님 강의에서 배웠던 내용들을 간략하게 정리할 겸, 특강 내용과 더불어 language model 정리를 한다.Seq2Seq task다. 주어진 문맥을 활용해 다음 단어를 예측하는 task.특정 시점의 문장에 대한 다음 단어가 나타날 확률을 예측하는 task로"
 date: 2021-09-26T22:12:41.097Z
+categories: ["NLP"]
 tags: ["NLP","boostcamp"]
 ---
 # Language modeling

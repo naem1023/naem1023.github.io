@@ -2,6 +2,7 @@
 title: "Generation-based MRC"
 description: "context와 question을 보고 답변을 생성하는 task.Extraction-based MRC가 context의 token별로 정답 확률을 추출했다면, Genration-based는 이름처럼 Generation task다.즉, Extraction-based MR"
 date: 2021-10-13T04:58:10.269Z
+categories: ["NLP"]
 tags: ["MRC"]
 ---
 # Generation-based MRC
