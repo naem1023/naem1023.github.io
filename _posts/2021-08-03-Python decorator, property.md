@@ -2,7 +2,7 @@
 title: "Python decorator, property"
 description: "class의 getter, setter를 쉽게 사용 가능하게 해준다.일반적인 getter, setter와 동일하게 제한, 하위호환성 등을 고려할 수 있다.python의 class에 property라는 내장함수가 있는데, 이를 decorator 형태로 사용 가능하게 한 "
 date: 2021-08-03T16:41:17.158Z
-categories: ["python"]
+categories: ["Python"]
 tags: ["python"]
 ---
 # @property decorator
