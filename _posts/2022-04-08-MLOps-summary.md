@@ -1,6 +1,6 @@
 ---
 titile: "MLOps Summmary"
-excerpt: "산개된 mlops 내용들을 정맇보자."
+excerpt: "산개된 mlops 내용들을 정리"
 categories: "MLOps"
 tags: "mlops"
 ---

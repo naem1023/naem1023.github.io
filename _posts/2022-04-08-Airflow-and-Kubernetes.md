@@ -1,6 +1,6 @@
 ---
 title: "Airflow and Kubernetes"
-expert: ""
+expert: "How to use Airflow and Kubernetes"
 categories: "MLOps"
 tags: "MLOps"
 ---
