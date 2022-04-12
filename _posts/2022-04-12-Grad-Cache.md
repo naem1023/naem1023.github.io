@@ -1,7 +1,9 @@
 ---
 title: "Grad Cache"
 excerpt: ""
-categories: "ML Engineering"
+categories:
+    - ML-Engineering
+    - NLP
 tags:
     - ml
     - ml-engineering
