@@ -27,15 +27,17 @@ Transformers에서 CLS token을 포함한 모든 token들은 한번의 attention
 
 하나의 attention만으로 pre-trainig하지 않고, early encoder, late encoder, condenser header를 통해 pre-training을 하고자 주장한다. 이를 early encoder, late encoder를 수식으로 표현하면 아래와 같다.
 
-$$[h^{0}_{cls};h^{0}] = Embed([CLS;x])$$
-$$[h^{early}_{cls};h^{early}] = Encoder_{early}([h^{0}_{cls};h^{0}])$$
-$$[h^{late}_{cls};h^{late}] = Encoder_{late}([h^{early}_{cls};h^{early})$$
+$$[h^{0}_{cls};h^{0}] = Embed([CLS;x])$$   
+
+$$[h^{early}_{cls};h^{early}] = Encoder_{early}([h^{0}_{cls};h^{0}])$$    
+
+$$[h^{late}_{cls};h^{late}] = Encoder_{late}([h^{early}_{cls};h^{early}])$$    
 
 early encoder의 hidden state가 skip connection으로 condenser head에 들어간다. (논문에서는 short circuit이라고 표현했다) late encoder의 CLS가 condenser head에 투입되면서 late-early representation이 condenser head가 들어가도록 유도한다.
 
 MLM Loss는 아래와 같이 구한다.
 
-$$\mathcal{L}_\text{mlm} = \sum_{i \in \text{masked}} \text{CrossEntropy}(W h^{cd}_i, x_i)$$
+$$\mathcal{L}_\text{mlm} = \sum_{i \in \text{masked}} \text{CrossEntropy}(W h^{cd}_i, x_i)$$  
 
 이러한 구조에서 late encoder이 token representation을 refine(정비?, 정제?)할 순 있지만 오직 $h^{late}_{cls}$를 통해서만 새로운 정보를 통과시킨다. 따라서 late encoder는 새롭게 생성되는 정보들을 CLS representation에 집계하려고 노력할 것이고, heads는 late CLS에 의존해서 prediction을 하게 된다.
 
@@ -50,7 +52,8 @@ Condenser의 head는 random하게 초기화하고 early, late encdoer는 기존 
 
 Head에 대해서 gradient backpropgation을 수행할 때 backbone weight가 이를 방해하는 것을 막아야 한다. 따라서 late output에 대한 MLM을 문맥적인 제약사항으로 아래와 같이 사용하여 Loss에 추가했다. 
 
-$$\mathcal{L}_\text{mlm}^c = \sum_{i \in \text{masked}} \text{CrossEntropy}(W h^{late}_i, x_i)$$
+$$\mathcal{L}_\text{mlm}^c = \sum_{i \in \text{masked}} \text{CrossEntropy}(W h^{late}_i, x_i)$$   
+
 $$\mathcal{L} = \mathcal{L}_\text{mlm} + \mathcal{L}_\text{mlm}^c$$
 
 ## Result
