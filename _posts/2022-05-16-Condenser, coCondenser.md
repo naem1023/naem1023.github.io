@@ -23,7 +23,7 @@ Transformers에서 CLS token을 포함한 모든 token들은 한번의 attention
 ### Pre-training
 논문은 아래와 같은 model design을 통해 이를 해결하고자 한다.
 
-![](../assets/Condenser,coCondenser/20220516170729.png)  
+![](/assets/Condenser,coCondenser/20220516170729.png)  
 
 하나의 attention만으로 pre-trainig하지 않고, early encoder, late encoder, condenser header를 통해 pre-training을 하고자 주장한다. 이를 early encoder, late encoder를 수식으로 표현하면 아래와 같다.
 
@@ -59,16 +59,16 @@ $$\mathcal{L} = \mathcal{L}_\text{mlm} + \mathcal{L}_\text{mlm}^c$$
 ## Result
 ### Sentence Similarity
 
-![](../assets/images/Condenser,coCondenser/20220516174926.png)  
+![](/assets/images/Condenser,coCondenser/20220516174926.png)  
 
 ### Retrieval for Open QA
 Open-domain에서의 retrieval 성능을 말하는 듯 하다.
-![](../assets/images/Condenser,coCondenser/20220516175155.png)  
+![](/assets/images/Condenser,coCondenser/20220516175155.png)  
 
 ### Retrieval for Web Search
 Open-domain이되 Web Search에 대한 지표.
 
-![](../assets/images/Condenser,coCondenser/20220516175321.png)  
+![](/assets/images/Condenser,coCondenser/20220516175321.png)  
 
 
 # coCondenser
