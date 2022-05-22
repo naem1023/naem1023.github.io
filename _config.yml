@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "naem1023.github.io"
 title_separator          : "-"
-subtitle                 : "Mutli-modal, NLP, CV, MLOps blog"
+subtitle                 : "tech blog"
 name                     : "Sungho Park"
 description              : "self-moivated engineer"
 url                      : "https://naem1023.github.io"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Sungho Park"
   avatar           : "/assets/images/puppy.webp"
-  bio              : "Research AI"
+  bio              : "AI"
   location         : "Seoul"
   email            : "relilau00@gmail.com"
   links:
