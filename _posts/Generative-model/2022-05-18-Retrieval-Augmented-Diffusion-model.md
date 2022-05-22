@@ -179,9 +179,12 @@ class에 대한 CLIP의 text embedding과 k - 1개의 nearest neighborhood를 �
 
 ## Text-to-image
 ![](20220522210307.png)  
+사용 가능한 경우의 수는 아래와 같다.
+- text embedding condition
+- text embedding + nearest neighborhood condition
+- nearest neighborhood condition
 
-
-
+ImageNet으로만 학습했음에도 CLIP의 text embedding으로 condition해도 결과가 잘 나왔다고 한다. 오히려 image에 대한 많은 정보를 줄 수록 성능이 하락함을 볼 수 있다. text embedding과 nearest neighborhood를 함께 사용하면 text embedding만  사용했을 때보다 좋지가 않은데, 
 
 # Reference
 - Paper: https://arxiv.org/abs/2204.11824
