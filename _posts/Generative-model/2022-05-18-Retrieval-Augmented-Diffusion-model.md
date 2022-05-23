@@ -72,6 +72,7 @@ unCLIP은 CLIP의 representation으로 diffusion model을 conditioning하고 lar
 
 kNN-Diffusion은 unCLIP의 위와 같은 문제를 neighborhood를 통해 conditioning함으로써 회피하는데, 이것은 본 논문의 연구와 매우 유사하다. 또한 서로 다른 형태의 neighborhood representation을 분석하기 위해 discrete diffusion formulation보다 continuous formulation을 사용했고 text-image synthesis에 제한되지 않는다는 점 또한 매우 유사하다.
 
+<<<<<<< Updated upstream
 # Image Synthesis with Retrieval-Augmented Diffusion Models
 
 ## Retrieval-Enhanced Generative Models of Images
@@ -185,6 +186,24 @@ class에 대한 CLIP의 text embedding과 k - 1개의 nearest neighborhood를 �
 - nearest neighborhood condition
 
 ImageNet으로만 학습했음에도 CLIP의 text embedding으로 condition해도 결과가 잘 나왔다고 한다. 오히려 image에 대한 많은 정보를 줄 수록 성능이 하락함을 볼 수 있다. text embedding과 nearest neighborhood를 함께 사용하면 text embedding만  사용했을 때보다 좋지가 않은데, 
+=======
+# Image Synthesis with Retrievl-Augmented Diffusion model
+
+본 논문의 모델은 data points를 explicit *part of the model*로 고려한다. 기존의 neural generative approaches와 다른 점은, 내부 데이터 데이터로부터 적절한 data representations를 retrieve하는 data representation과 non-learnable *retireval* function 또한 parameterized했다는 것이다. [5]에서 사용된 방법을 NLP modeling을 토대로, 본 논문은 nearest neighbor lookup을 retrieval pipeline으로 구현했다. 
+
+Fig3에서 본 논문의 접근법을 보여주고 있다. 
+
+![](/assets/images/Generative-model/20220520173435.png)  
+
+## Overview(Fig3)
+본 논문의 retrieval-augmented, semi-parametric diffusion model은 아래와 같이 구성돼있다.
+- 학습 가능한 conditional generative decoding head인 $p(x \vert \cdot)$
+- database $\mathcal{D}$의 구성 요소는 아래와 같다.
+  - visual examples
+  - $p_\theta$에 대한 conditioning을 제공하는 subset $\mathcal{M}_{\mathcal{D}}^{(k)} \subseteq \mathcal{D}$를 얻을 수 있는 sampling strategy인 $\xi_k$
+
+좌측의 $\xi^{train}_k$를 학습하는 동안 $\mathcal{D}$에서 nearest neighbors를 retrieve한다. 
+>>>>>>> Stashed changes
 
 # Reference
 - Paper: https://arxiv.org/abs/2204.11824
