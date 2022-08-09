@@ -1,6 +1,6 @@
 ---
-title: "Retreival-Augmented Diffusion model"
-excerpt: "Review of Retreival-Augmented Diffusion model paper"
+title: "Retrieval-Augmented Diffusion model"
+excerpt: "Review of Retrieval-Augmented Diffusion model paper"
 categories:
     - Generative-model
     - NLP
