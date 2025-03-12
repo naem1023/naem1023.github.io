@@ -75,3 +75,7 @@ content
     ├── index.md
     └── featured.png
 ```
+
+## Modify the theme
+If I change the file of theme, it applys to all pages.
+e.g., Apply common google analytics scripts
