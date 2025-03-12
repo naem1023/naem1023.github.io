@@ -1,8 +1,12 @@
 ---
-title: "Airflow and Kubernetes"
-expert: "How to use Airflow and Kubernetes"
-categories: "MLOps"
-tags: "MLOps"
+# Start of Selection
+title: Airflow and Kubernetes
+excerpt: How to use Airflow and Kubernetes
+categories: 
+  - MLOps
+tags:
+  - MLOps
+# End of Selection
 ---
 ref: [Line Engineering Blog - Airflow Kubernetes - 1](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-1/), [Line Engineering Blog - Airflow Kubernetes - 2](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-2/)
 

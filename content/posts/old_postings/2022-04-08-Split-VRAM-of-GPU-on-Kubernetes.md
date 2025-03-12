@@ -1,8 +1,10 @@
 ---
-title: "Split VRAM of GPU on Kubernetes"
-excerpt: "How to split VRAM"
-categoreis: "MLOps"
-tags: "mlops"
+title: Split VRAM of GPU on Kubernetes
+excerpt: How to split VRAM
+categories: 
+  - MLOps
+tags:
+  - mlops
 ---
 
 # Overview

@@ -1,8 +1,10 @@
 ---
-titile: "MLOps Summmary"
-excerpt: "산개된 mlops 내용들을 정리"
-categories: "MLOps"
-tags: "mlops"
+title: MLOps Summary
+excerpt: 산개된 mlops 내용들을 정리
+categories: 
+  - MLOps
+tags:
+  - mlops
 ---
 # Set spec of service and experiment
 
