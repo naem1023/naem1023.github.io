@@ -1,7 +1,7 @@
 ---
 title: OpenAI Agents SDK review
 excerpt: Personal review of Agents SDK made by OpenAI
-date: 2025-03-13
+date: 2025-03-13T
 categories: 
   - agent
 tags:
