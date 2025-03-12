@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gigio1023.github.io/sitemap.xml
