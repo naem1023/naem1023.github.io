@@ -34,7 +34,9 @@ Transformers에서 CLS token을 포함한 모든 token들은 한번의 attention
 
 $$[h^{0}_{cls};h^{0}] = Embed([CLS;x])$$   
 
+
 $$[h^{early}_{cls};h^{early}] = Encoder_{early}([h^{0}_{cls};h^{0}])$$    
+
 
 $$[h^{late}_{cls};h^{late}] = Encoder_{late}([h^{early}_{cls};h^{early}])$$    
 
