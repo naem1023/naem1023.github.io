@@ -1,6 +1,7 @@
 ---
 title: "Retrieval-Augmented Diffusion model"
 excerpt: "Review of Retrieval-Augmented Diffusion model paper"
+date: 2022-05-18T00:00:00.000Z
 categories:
     - Generative-model
     - NLP

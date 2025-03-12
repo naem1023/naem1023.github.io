@@ -1,7 +1,7 @@
 ---
 title: "Jekyll Page"
 excerpt: ""
-date: 2022-04-06
+date: 2022-04-06T00:00:00.000Z
 categories:
     - blog-building
 
