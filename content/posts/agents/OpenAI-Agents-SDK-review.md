@@ -14,17 +14,27 @@ tags:
 > An SDK leveraging OpenAI API resources for building an agent ecosystem.
 
 ## Overall Impression
+### Compare to Langchain
+Compared to Langchain, the new SDK feels way more straightforward. Thanks to its deeper reliance on Pydantic, the agent loop becomes much clearer.
 
-### Feature-wise
+- Defining agent-specific outputs and guardrails is now intuitive and easy to grasp at a glance.
+- Langchain has a clear strength in terms of integration support, offering many modules. However, the complexity ramps up significantly when you try to dig into the internal implementations. In some cases, you need a solid understanding of Langchain's inner workings just to properly set type hints or build extensions.
+- On a side note, Langchain's agent internals are still littered with legacy code from the GPT-3 era, making it a pain to read. Despite chat completion becoming the new norm, you still have to sift through outdated completion-style implementations and documentation.
 
-- It's definitely easier than LangChain. It relies heavily on Pydantic, and the agent loop is clearly defined, which is great.
-  - LangChain's strength is its vast number of pre-integrated modules. Everything else about LangChain, honestly, feels like a downside.
-  - LangChain agents still have a lot of legacy GPT-3 code scattered around, making it unpleasant to navigate internally. Even in the era of chat-based completions, you still have to account for legacy completion-style LLMs, which is a hassle.
-- The ability to easily specify outputs per agent and implement guardrails is really convenient.
-- Trace visualization uses the same UI as LangSmith, which is visually appealing.
-  - Downside: There's only one trace dashboard per project, meaning the OpenAI account admin needs to manage projects carefully.
-- It also leverages previously underappreciated [OpenAI Eval features](https://openai.github.io/openai-agents-python/multi_agent/#orchestrating-via-llm).
-- Curious if OpenAI is moving away from the Assistant API since the Vector Search feature seems integrated here as a tool, causing significant overlap in functionality.
+### Tracing and Evaluation
+The tracing UI is essentially identical to Langsmith’s, which remains user-friendly and visually clear.
+
+- It's another reminder that agent trajectory definitions across ecosystems look surprisingly similar.
+- However, there's only one trace dashboard per project, putting extra responsibility on whoever manages the OpenAI account to keep projects well-organized.
+
+Interestingly, the previously under-the-radar [OpenAI eval functionality](https://openai.github.io/openai-agents-python/multi_agent/#orchestrating-via-llm) is now fully accessible.
+
+The introduction of robust tracing and evaluation features feels like an even tighter lock-in to the OpenAI ecosystem.
+
+### OpenAI Assistant API
+Lastly, the OpenAI Assistant API branding seems increasingly unclear. With Assistant API's vector search capability apparently rolled into the Agents SDK as a tool, it's gotten even murkier. Given these substantial changes in functionality, it might be time for a full rebrand—perhaps something along the lines of an "Agents API."
+
+
 
 ## Agent
 
