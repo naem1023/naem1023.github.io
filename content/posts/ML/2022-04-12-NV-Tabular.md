@@ -1,6 +1,7 @@
 ---
 title: NVTabular
 excerpt: Summary of NVTabular
+date: 2022-04-12
 categories: 
   - ML
 tags:

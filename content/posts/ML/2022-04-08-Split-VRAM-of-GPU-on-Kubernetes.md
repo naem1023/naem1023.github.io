@@ -1,6 +1,7 @@
 ---
 title: Split VRAM of GPU on Kubernetes
 excerpt: How to split VRAM
+date: 2022-04-08
 categories: 
   - MLOps
 tags:

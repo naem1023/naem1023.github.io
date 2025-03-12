@@ -1,6 +1,7 @@
 ---
 title: "Search Engine Registration"
 excerpt: ""
+date: 2022-04-06
 categories:
     - blog-building
 tags:

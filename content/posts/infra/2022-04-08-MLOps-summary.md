@@ -1,6 +1,7 @@
 ---
 title: MLOps Summary
 excerpt: 산개된 mlops 내용들을 정리
+date: 2022-04-08
 categories: 
   - MLOps
 tags:

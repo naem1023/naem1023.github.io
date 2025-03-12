@@ -1,6 +1,7 @@
 ---
 title: m1 gpu acceleration
 excerpt: how use gpu acceleration in m1
+date: 2022-05-20
 categories:
     - mac 
     - gpu

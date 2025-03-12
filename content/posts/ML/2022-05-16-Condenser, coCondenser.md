@@ -1,6 +1,7 @@
 ---
 title: Condenser, coCondenser
 excerpt: Paper review of condenser and coCondenser
+date: 2022-05-16
 categories: 
   - NLP
 tags:

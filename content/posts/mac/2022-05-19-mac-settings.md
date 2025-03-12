@@ -1,6 +1,7 @@
 ---
 title: Mac basic settings
 excerpt: mac settings
+date: 2022-05-19
 categories:
     - mac
 tag:

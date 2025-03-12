@@ -2,6 +2,7 @@
 # Start of Selection
 title: Airflow and Kubernetes
 excerpt: How to use Airflow and Kubernetes
+date: 2022-04-08
 categories: 
   - MLOps
 tags:
