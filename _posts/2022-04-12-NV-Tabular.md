@@ -1,8 +1,12 @@
 ---
-title: "NVTabular"
-excerpt: "Summary of NVTabular"
-categories: "ML"
-tags: "ml", "nvt", "preprocessing"
+title: NVTabular
+excerpt: Summary of NVTabular
+categories: 
+  - ML
+tags:
+  - ml
+  - nvt
+  - preprocessing
 ---
 
 # NVTabular

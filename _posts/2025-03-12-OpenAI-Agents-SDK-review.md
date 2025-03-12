@@ -1,8 +1,11 @@
 ---
-title: "OpenAI Agents SDK review"
-excerpt: "Personal review of Agents SDK made by OpenAI"
-categories: "Agent"
-tags: "agent", "llm"
+title: OpenAI Agents SDK review
+excerpt: Personal review of Agents SDK made by OpenAI
+categories: 
+  - agent
+tags:
+  - agent
+  - llm
 ---
 
 # OpenAI Agents SDK

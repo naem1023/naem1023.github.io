@@ -1,8 +1,12 @@
 ---
-title: "Condenser, coCondenser"
-excerpt: "Paper review of condenser and coCondenser"
-categories: "NLP"
-tags: "nlp"
+title: Condenser, coCondenser
+excerpt: Paper review of condenser and coCondenser
+categories: 
+  - NLP
+tags:
+  - nlp
+  - paper-review
+  - dense-retrieval
 ---
 스터디에서 진행했던 논문 리뷰 발표 정리.  
 https://github.com/luyug/Condenser
