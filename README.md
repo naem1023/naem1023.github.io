@@ -1,5 +1,7 @@
 # Blog Settings
 Summary of https://blowfish.page/docs/.
+## Generaet a post
+`hugo new --kind post test.md`
 ## Color schema
 ```
 # config/_default/params.toml
